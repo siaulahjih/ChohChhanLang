@@ -25,10 +25,10 @@
 
     <nav role="navigation">
         <div id="book-search-input" role="search">
-            <input type="text" placeholder="Type to search" />
+            <input type="text" placeholder="Beh chhōe siáⁿ" />
         </div>
         <div id="book-search-input-link" role="search">
-            <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
+            <a href="{{site.baseurl}}/assets/search.html">Beh chhōe siáⁿ</a>
         </div>
         <ul class="summary">
             {% if page.url == "/index.html" or page.url == "/" %}
@@ -37,7 +37,9 @@
             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
             {% endif %}
                 <a href="{{site.baseurl}}/" onclick="pageScrollToTop(this)">
+                    <div style="font-size:1.6em; ">
                     {{ site.title | escape }}
+                    </div>
                 </a>
                 {% if site.toc.enabled %}
                     {% if site.toc.enabled_index %}
@@ -65,6 +67,21 @@
                             {% else %}
                             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                             {% endif %}
+                            
+                                {% if post.show_chapter == 1 %}
+                                <h4>&nbsp;&nbsp;第1章——作田人田園記事</h4>
+                                {% elsif post.show_chapter == 2 %}
+                                <h4>&nbsp;&nbsp;第2章——作田人Chia̍h-si̍t記事</h4>
+                                {% elsif post.show_chapter == 3 %}
+                                <h4>&nbsp;&nbsp;第3章——作田人生活記事</h4>
+                                {% elsif post.show_chapter == 4 %}
+                                <h4>&nbsp;&nbsp;第4章——作田人Khiā家記事</h4>
+                                {% elsif post.show_chapter == 5 %}
+                                <h4>&nbsp;&nbsp;第5章——作田人傳統記事</h4>
+                                {% elsif post.show_chapter == 6 %}
+                                <h4>&nbsp;&nbsp;第6章——作田人在地記事</h4>
+                                {% endif %}
+
                                 <a href="{{site.baseurl}}{{post.url}}" onclick="pageScrollToTop(this)">
                                     {{ post.title | escape }}
                                 </a>
@@ -115,5 +132,7 @@
                 {% endfor %}
             {% endif %}
         </ul>
+
+        <br>&nbsp;&nbsp;© Siau Lah-jih（蕭平治）<br><br><br>
     </nav>
 </div>

@@ -25,9 +25,13 @@
                     <h1>
                         <i class="fa fa-circle-o-notch fa-spin"></i>
                         {% if page.title %}
-                            <a href="." >{{ page.title | escape }}</a>
+                            {% if page.category == "chheh" %}
+                                {{ page.chapter }}：{{ page.title | escape }}
+                            {% else %}
+                                {{ page.title | escape }}
+                            {% endif %}
                         {% else %}
-                            <a href="." >{{ site.title | escape }}</a>
+                            {{ site.title | escape }}
                         {% endif %}
                     </h1>
                 </div>

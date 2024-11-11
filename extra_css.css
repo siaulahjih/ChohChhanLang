@@ -1,0 +1,36 @@
+/*!
+ *  Custom Taigi Fonts
+ */
+ @font-face {
+	font-family: "Iansui";
+	src: url("ji7kut/Iansui0.92-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+	font-family: "Huninn";
+	src: url("ji7kut/jf-openhuninn-1.1.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal
+}
+
+.book.font-family-0 {
+    font-family: "Iansui";
+}
+
+.book.font-family-1 {
+    font-family: "Huninn";
+}
+
+.book-header {
+    font-family: var(--font-family);
+}
+
+.book-summary {
+    font-family: var(--font-family);
+}
+
+:root {
+    --font-family: "Iansui";
+}

@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            《作田人博物館》
+longtitle:        Choh-chhân-lâng Phok-bu̍t-koán
+author:           Siau Lah-jih
+email:            
 description: >
-  Build Jekyll site with the GitBook style.
+  《作田人博物館》Choh-chhân-lâng Phok-bu̍t-koán
 
-version:          1.0
+version:          2.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              ''
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -19,7 +19,7 @@ remote_theme: sighingnow/jekyll-gitbook
 toc:
   enabled: true
   h_min:   1
-  h_max:   3
+  h_max:   2
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
@@ -35,13 +35,15 @@ kramdown:
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           true
+  typographic_symbols:
+    ndash: --
 
 syntax_highlighter_style: colorful
 
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
+permalink:                /:categories/:month-:day:output_ext
 
 # Disqus comments
 # disqushandler:            sighingnow
@@ -58,8 +60,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
+  - posts
   - others
 
 page_width: 800px
@@ -72,3 +74,10 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+# tracker:
+  # google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
+
+extra_css: extra_css.css
+extra_header_js: extra_header_js.js
+extra_footer_js: extra_footer_js.js

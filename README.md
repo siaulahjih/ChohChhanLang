@@ -30,6 +30,6 @@ Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，
 * 協助單位：Tá-káu Tâi-gí-bûn Chhiok-chìn Hia̍p-hōe（打狗台語文促進協會）
 
 ## 建議、聯絡
-Nā網站內容有任何問題a̍h是建議，請聯絡網站管理單位 [Tâi-bûn Ke-si-mī／台文雞絲麵](https://linktr.ee/taibunkesimi)。
+Nā網站內容有任何問題a̍h是建議，請聯絡網站管理單位 [Tâi-bûn Ke-si-mī (台文雞絲麵)](https://linktr.ee/taibunkesimi)。
 
     電子phoe：taibunkesimi+chohchhanlangphokbutkoan@gmail.com

@@ -75,8 +75,8 @@ plugins:
   - jekyll-readme-index
   - jemoji
 
-# tracker:
-  # google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
+tracker:
+  google_analytics: "G-XG4HSSM1PZ"
 
 extra_css: extra_css.css
 extra_header_js: extra_header_js.js

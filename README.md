@@ -21,20 +21,20 @@ Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，
 * 著作權 © Siau Lah-jih（蕭平治）
 以上授權ê內容是為tio̍h將chia寶貴ê資料公開，利益社會大眾學習台語文，傳承台灣人ê智識。
 
-## 計劃經營團隊
-* 作者：Siau Lah-jih（蕭平治）
-* 總編輯：Siau Lah-jih（蕭平治）
-* 主編：Ngô͘ Hê-bí
-* 網站技術支援：Ngô͘ Hê-bí／Tâi-bûn Ke-si-mī (台文雞絲麵)
-* 授權管理單位：Tá-káu Tâi-gí-bûn Chhiok-chìn Hia̍p-hōe（打狗台語文促進協會）
-
-### 原計劃發起團隊
+## 原網站起造團隊
 * 作者、指導：Siau Lah-jih（蕭平治）
 * 共同發起人：Siau Lah-jih（蕭平治）、Chhòa It-bîn、Koa-ông Péng-hun、N̂g Ú-iûⁿ、Ngô͘ Hê-bí
 * 總編輯：Chhòa It-bîn
 * 內容編輯：Chhòa It-bîn、Koa-ông Péng-hun、N̂g Ú-iûⁿ、Tân Sió-tâi、Ngô͘ Hê-bí
 * 網站管理：Tâi-bûn Ke-si-mī (台文雞絲麵)、Tân Chu-hôa
 * 協助單位：Tá-káu Tâi-gí-bûn Chhiok-chìn Hia̍p-hōe（打狗台語文促進協會）
+
+## 蕭平治著作電子冊計劃經營團隊
+* 作者、總編輯：Siau Lah-jih（蕭平治）
+* 負責人：Tēⁿ Tì-têng（打狗台語文促進協會理事長）
+* 主編：Ngô͘ Hê-bí
+* 網站技術支援：Tâi-bûn Ke-si Mī (台文雞絲麵)
+* 授權管理單位：Tá-káu Tâi-gí-bûn Chhiok-chìn Hia̍p-hōe（打狗台語文促進協會）
 
 ## 建議、聯絡
 Nā網站內容有任何問題a̍h是建議，請聯絡管理單位

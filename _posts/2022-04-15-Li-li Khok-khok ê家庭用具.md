@@ -18,7 +18,7 @@ toc: true
 
 木屐mā號做柴屐，削木材合腳蹄，釘樹奶皮á做耳，是1950年代進前田庄人ê柴鞋、柴拖á鞋。罕得有鞋thang穿ê作穡人，木屐是無閒一工歇睏後ê腳蹄。一工穡頭結束，腳手面洗洗--leh mā tio̍h洗腳chiah ē-tàng chiūⁿ眠床睏眠，洗腳後to̍h ài穿geh-tah（木屐）。
 
-國校出業進前，穿無超過2雙布鞋，穿布鞋ê機會tī過年，去阿姑、阿姊、親chiâⁿ tau kap學校遠足，chhun--ê lóng是thǹg赤腳。暗頓食飽洗腳洗清氣to̍h ē穿木屐，穿木屐去看戲看鬧熱、看王祿á，a̍h是月光暝gín-á伴招thit-thô，無節目to̍h是準備chiūⁿ眠床o͘ⁿ-o͘ⁿ睏，腳nā無洗，序大人bē允准你去睏。
+國校出業進前，穿無超過2雙布鞋，穿布鞋ê機會tī過年，去阿姑、阿姊、親chiâⁿ tau kap學校遠足，chhun--ê lóng是thǹg赤腳。暗頓食飽洗腳洗清氣to̍h ē穿木屐，穿木屐去看戲看鬧熱、看王祿á，a̍h是月光暝gín-á伴招thit-thô，無節目to̍h是準備chiūⁿ眠床oⁿ-oⁿ睏，腳nā無洗，序大人bē允准你去睏。
 
 庄腳人ê木屐khah chē是ka-tī chhò柴ka-tī thâi，二兄真gâu thâi木屐，苦楝á柴、樟á柴是材料，用柴刀chām，chiah koh用刀á修，木屐耳chhōe he害車輪ê樹奶，a̍h是khioh he bē用--得ê皮帶，古早hit-lō ga-là-suh皮帶chiâⁿ好用，鉸2節hô腳用釘á釘好勢，to̍h是1雙「khiáu khiáu khiáu khiáu」ê木屐，人未到聲先到，to̍h是穿木屐趣味，聽tio̍h木屐聲，to̍h知影有人leh來，koh知影是siáⁿ-mih人。
 
@@ -30,7 +30,7 @@ toc: true
 # 2. 蚊á水Chōaⁿ
 > **Báng-á-chúi-chōaⁿ**
 
-古早木蝨、ka蚤kài chē，藏tī長頭毛內ê蝨母mā bē少，因為寄生tī人ê身--上，只好用蝨篦pìn，用手lia̍h，無to̍h用藥á thāu，1965年代家家戶戶噴DDT，殺死無數蟲thōa，m̄-koh ē飛ē bih ê蚊蟲，猶原bē斷根，boeh睏進前tio̍h ài pōaⁿ蚊nê蚊罩，nā是tn̄g-tio̍h蚊á chē到póe-bē離，蚊á水siāng應效。蚊á水tio̍h倒入去蚊á水chōaⁿ管á內，chiah ē-tàng chōaⁿ出霧狀。
+古早木蝨、ka蚤kài chē，藏tī長頭毛內ê蝨母mā bē少，因為寄生tī人ê身--上，只好用蝨篦pìn，用手lia̍h，無to̍h用藥á thāu，1965年代家家戶戶噴DDT，殺死無數蟲thōa，m̄ koh ē飛ē bih ê蚊蟲，猶原bē斷根，boeh睏進前tio̍h ài pōaⁿ蚊nê蚊罩，nā是tn̄g-tio̍h蚊á chē到póe-bē離，蚊á水siāng應效。蚊á水tio̍h倒入去蚊á水chōaⁿ管á內，chiah ē-tàng chōaⁿ出霧狀。
 
 蚊á水chōaⁿ是一支風聚á黏tī 1-kâi銅管á，銅管á貯蚊á水，有嘴á kap風聚á出口成90°，風聚á nā連sòa聚風，因為氣壓「壓力差」ê因素，to̍h ē kā銅管á內ê蚊á水噴出霧狀。
 ![](../too5/16/16-8-3蠓仔水濺忠義.jpg) 
@@ -39,7 +39,7 @@ toc: true
 # 3. Chhéng-thûn用ê家私
 > **Chhéng-thûn Iōng ê Ke-si**
 
-Tn̄g-tio̍h過年厝內大piàⁿ掃，厝頂kài chē蜘蛛絲kap ian-thûn（煙thûn），取一支細支竹篙，竹篙尾pa̍k稻草tān ê chhéng-á，to̍h ē-tàng chhéng掃清氣。有人pa̍k掃帚mā是方便，總--是掃帚掃土腳，nā是chhéng掃灶腳、公媽廳to̍h m̄-thang用掃帚。
+Tn̄g-tio̍h過年厝內大piàⁿ掃，厝頂kài chē蜘蛛絲kap ian-thûn（煙thûn），取一支細支竹篙，竹篙尾pa̍k稻草tān ê chhéng-á，to̍h ē-tàng chhéng掃清氣。有人pa̍k掃帚mā是方便，總--是掃帚掃土腳，nā是chhéng掃灶腳、公媽廳to̍h m̄ thang用掃帚。
 ![](../too5/16/16-8-5筅仔.jpg)
 ![](../too5/16/16-8-5a筅仔.jpg)
 
@@ -58,7 +58,7 @@ Tn̄g-tio̍h過年厝內大piàⁿ掃，厝頂kài chē蜘蛛絲kap ian-thûn（
 # 5.  火籠
 > **Hóe-lang**
 
-竹á pīⁿ ê火hang叫做火籠，內面有粗hûi khaⁿ-á，ē-tàng khǹg火炭火，有kōaⁿ耳，雙手弓tiàm耳內烘手，khǹg tiàm腳縫下，5-60歲老歲á人，1人1-kha，燒烙ê寶貝。暗時眠床棉被冷ki-ki，火籠om被內，溫燒了後ē記得kā火籠kōaⁿ走，to̍h chiâⁿ好睏眠。M̄-thang貪tio̍h燒hōm-hōm m̄-kam kōaⁿ走to̍h睏--去，燒tio̍h棉被是好ka-chài，nā引起火燒厝to̍h悽慘tāi。
+竹á pīⁿ ê火hang叫做火籠，內面有粗hûi khaⁿ-á，ē-tàng khǹg火炭火，有kōaⁿ耳，雙手弓tiàm耳內烘手，khǹg tiàm腳縫下，5-60歲老歲á人，1人1-kha，燒烙ê寶貝。暗時眠床棉被冷ki-ki，火籠om被內，溫燒了後ē記得kā火籠kōaⁿ走，to̍h chiâⁿ好睏眠。m̄ thang貪tio̍h燒hōm-hōm m̄-kam kōaⁿ走to̍h睏--去，燒tio̍h棉被是好ka-chài，nā引起火燒厝to̍h悽慘tāi。
 ![](../too5/16/16-8-9火籠陳慶芳.jpg)
 ![](../too5/16/16-8-10火籠.jpg)
 ![](../too5/16/16-8-11火籠.jpg)

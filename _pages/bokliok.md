@@ -107,7 +107,7 @@ layout: post
 4. [其他粿路紹介](../../chheh/05-04.html)  
 5. [粿ê散文9篇](../../chheh/05-05.html)  
 6. [Hām拜拜有關係ê古物á](../../chheh/05-06.html)  
-7. [講親chiâⁿ kap一寡結緣ê文書](../../chheh/05-07.html)  
+7. [講親chiâⁿ kap 1寡結緣ê文書](../../chheh/05-07.html)  
 8. [Hēng大餅Hām kah糖á餅相關ê古物á](../../chheh/05-08.html)  
 9. [新娘房kap相關ê嫁妝](../../chheh/05-09.html)  
 10. [娶新娘](../../chheh/05-10.html)  

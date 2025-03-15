@@ -8,9 +8,9 @@ permalink: /
 ## 網站紹介
 Chit ê網站是為tio̍h **Siau Lah-jih（蕭平治）**先生ê著作**《Choh-chhân-lâng Phok-bu̍t-koán (作田人博物館)》**來設--ê。
 
-Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，mā是台灣人寶貴ê語言kap文化資產。伊一直真khòa心，向望chiah ê智識有機會thang ka thn̂g--lo̍h-去。所致，伊決定將chit本iáu-bē出版ê冊，完整公開tī網路頂koân。
+Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，mā是台灣人寶貴ê語言kap文化資產。I一直真khòa心，向望chiah ê智識有機會thang ka thn̂g--lo̍h-去。所致，i決定將chit本iáu-bē出版ê冊，完整公開tī網路頂koân。
 
-> 特別感謝Lah-jih兄，做台語文長期ê實踐者，koh無私奉獻伊ê智識。
+> 特別感謝Lah-jih兄，做台語文長期ê實踐者，koh無私奉獻i ê智識。
 
 邀請大家做伙來讀台文，學習咱台灣作田人寶貴ê歷史kap記tî！
 

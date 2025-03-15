@@ -30,10 +30,10 @@ Pōng米芳是經過密封ê壓力鐵爐加熱加壓，tháu放壓力後，產�
 ![](../too5/17/17-14-1米芳.jpg)
 ![](../too5/17/17-14-2砰米芳.jpg)
 
-## 1-2. Gín-á唸謠——一--è炒米芳
-> **Gín-á Liām-iâu——It--è Chhá-bí-phang**
+## 1-2. Gín-á唸謠——一--ê炒米芳
+> **Gín-á Liām-iâu——It--ê Chhá-bí-phang**
 
-一--è炒米香，二--ē炒韭菜，三--e chhiāng-chhiāng滾，四--è炒米粉。五--ē五將軍，六--è六kiáⁿ孫，七--è蚵á kûn麵線，八--è講伊boeh分一半，九--è九嬸婆，十--è kòng大鑼。Phah你千，phah你萬，phah你一千khòng五萬。Chhiu chhiu chhiu，bē見笑，ioh輸m̄ kam願，ī輸起he-ku，m̄ kam願，起he-ku，我boeh來去投老師，投老師。
+一--ê炒米香，二--ê炒韭菜，三--ê chhiāng-chhiāng滾，四--ê炒米粉。五--ê五將軍，六--ê六kiáⁿ孫，七--ê蚵á kûn麵線，八--ê講i boeh分1半，九--ê九嬸婆，十--ê kòng大鑼。Phah你千，phah你萬，phah你一千khòng五萬。Chhiu chhiu chhiu，bē見笑，ioh輸m̄ kam願，ī輸起he-ku，m̄ kam願，起he-ku，我boeh來去投老師，投老師。
 
 # 2. Pōng米芳ê家私
 > **Pōng Bí-phang ê Ke-si**
@@ -62,7 +62,7 @@ Pōng米芳ê家私有壓力鐵爐、火爐、鼎、網á袋、菜刀kah pān-á
 ## 2-4. 鉛線網á
 > **Iân-sòaⁿ Bāng-á**
 
-是收集pōng開ê米芳。當鐵爐壓力達到ē-tàng開pōng ê時陣，pōng米芳ê師傅to̍h ē大聲喝「boeh pōng--ā-ō͘！」khiā tī邊--a ê gín-á隨時隨ê耳khang ng--leh，「póng」一聲，白泡泡ê pōng米芳已經貯滿鉛線網á。
+是收集pōng開ê米芳。當鐵爐壓力達到ē-tàng開pōng ê時陣，pōng米芳ê師傅to̍h ē大聲喝「boeh pōng--a-ō͘！」khiā tī邊--a ê gín-á隨時隨ê耳khang ng--leh，「póng」一聲，白泡泡ê pōng米芳已經貯滿鉛線網á。
 ![](../too5/17/17-14-7磅米芳.jpg)
 
 Pōng好iáu未chhiau糖膏ê米芳。
@@ -81,7 +81,7 @@ Pōng好iáu未chhiau糖膏ê米芳。
 
 一隻雙台鐵馬，後載載1-kha柴箱，柴箱內面khǹg一大盒金黃金黃ê麥芽（糖）、ó͘麥芽ê竹pêng-á、黏麥芽ê竹chhiám-á kap kauh麥芽用ê薄餅á。手giâ一支「kho̍k kho̍k kho̍k kho̍k」ê搖管á：「麥芽--ō͘！麥芽--ō͘！來買麥芽--lah，麥芽kauh餅--ō͘！」
 
-1950年代，麥芽一支1角銀，麥芽kauh kiáⁿ 1-kauh 2角，有人boeh買，to̍h竹pêng-á giâ--leh挖1-ê起頭，sòa--落用手ûn-ûn-á giú、ûn-ûn-á黏，giú ho͘薄li-si，黏ho͘ tiâu tī竹chhiám-á頂，a̍h是黏tī 2塊餅中間。
+1950年代，麥芽一支1角銀，麥芽kauh kiáⁿ 1-kauh 2角，有人boeh買，to̍h竹pêng-á giâ--leh挖1 ê起頭，sòa--落用手ûn-ûn-á giú、ûn-ûn-á黏，giú ho͘薄li-si，黏ho͘ tiâu tī竹chhiám-á頂，a̍h是黏tī 2塊餅中間。
 
 這是gín-á siāng kah意嘴食物，ûn-ûn-á chn̄g，ûn-ûn-á享受甜ê甜頭，1角銀chn̄g boeh半點鐘，m̄ kam甜but-but ê滋味一時á to̍h消失，永遠ê記智，tī hit ê sàn赤無錢ê gín-á時代。
 ![](../too5/17/17-19-1麥芽.jpg)

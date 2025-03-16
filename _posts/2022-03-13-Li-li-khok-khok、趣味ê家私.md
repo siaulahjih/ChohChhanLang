@@ -31,7 +31,7 @@ toc: true
 ## 1-2. 火石á台
 > **Hóe-chio̍h-á-tâi**
 
-火石á台華語號做『砂輪機』。
+火石á台中國話號做『砂輪機』。
 
 手絞火石á台，固定kah tī椅頭á頂，方便做khang-khòe，圓形khok-á內面有狗齒á組合，ㄣ字型手絞á絞振動大kâi狗齒á，大狗齒á帶動細狗齒á，細狗齒á軸心連火石á輪，速度chiâⁿ-kín，to̍h ē-tàng磨金屬類工具用具，主要是磨1 ê粗坯。火石á kap金屬刀肉磨擦to̍h ē噴出火星。火石，是一種人造合金『打火石』。
 
@@ -100,9 +100,9 @@ toc: true
 
 這已經是緊急警報，ta̍k-ke chiⁿ-chiⁿ kheh-kheh tī厝後hông-khong-hô（防空壕）內面。
 
-1945前半冬，米國B-29（B jī-káu）轟炸機時常來掃射，Lah-jih chiah 3歲外，m̄-bat半項，lóng是Lô͘-á兄講hō͘我聽--ê：「Lóng mā我āiⁿ你bih防空壕，你nā腹肚iau我to̍h趨去灶腳，用竹管á貯ám hō͘你lim。」Ē記得iáu未翻新厝進前，掃射--tio̍h ê玻璃窗kap gîm-chîⁿ銃子痕跡是老一輩phò-tāu往事ê記智，siáⁿ知70冬經過，咱mā已經chiâⁿ-chò老1輩--ah。
+1945前半冬，米國B-29（B jī-káu）轟炸機時常來掃射，Lah-jih chiah 3歲外，m̄ bat半項，lóng是Lô͘-á兄講hō͘我聽--ê：「Lóng mā我āiⁿ你bih防空壕，你nā腹肚iau我to̍h趨去灶腳，用竹管á貯ám hō͘你lim。」Ē記得iáu未翻新厝進前，掃射--tio̍h ê玻璃窗kap gîm-chîⁿ銃子痕跡是老一輩phò-tāu往事ê記智，siáⁿ知70冬經過，咱mā已經chiâⁿ-chò老1輩--ah。
 
-日本人轉--去，防空壕iáu tī--leh，後--來塚á土空形--ê毀掉，改換khû--lo̍h-去看bē tio̍h人頭ê溝á式防空溝，講án-ne ē-tàng閃過原子彈ê閃光to̍h無tāi-chì，備用niā-niā，khan-liân-tē m̄-bat bih--過。
+日本人轉--去，防空壕iáu tī--leh，後--來塚á土空形--ê毀掉，改換khû--lo̍h-去看bē tio̍h人頭ê溝á式防空溝，講án-ne ē-tàng閃過原子彈ê閃光to̍h無tāi-chì，備用niā-niā，khan-liân-tē m̄ bat bih--過。
 
 He hoⁿ-hoⁿ-kiò ê聲音to̍h是水螺聲，空襲警報警報器ê聲音，雖bóng無hit-lō記智，總--是bat聽過B-29掃射tìm炸彈（chà-tân）ê故事，chit-mái聽tio̍h防空演習ê水螺聲，猶原ē chhoah。
 
@@ -155,7 +155,7 @@ Chit種手絞ê水螺（防空警報器），細kâi輕省，安裝快速方便�
 
 ![](../too5/17/17-40-1.龍舌蘭.jpg)
 
-瓊麻（khêng-môa）to̍h是龍舌蘭，俗稱樹絲，因為i樹葉ê纖維，韌koh m̄驚水浸，提來股索á，堅固耐用，是討海人ê重要工具，南部出產kài chē。用瓊麻股索á是m̄-bat看--過，nā用黃麻絞索á，m̄但bat khòaiⁿ，gín-á時代mā bat kap大人絞--過，不過絞--ê是兩股--ê，絞三股--ê to̍h無hit ê才調。
+瓊麻（khêng-môa）to̍h是龍舌蘭，俗稱樹絲，因為i樹葉ê纖維，韌koh m̄驚水浸，提來股索á，堅固耐用，是討海人ê重要工具，南部出產kài chē。用瓊麻股索á是m̄ bat看--過，nā用黃麻絞索á，m̄但bat khòaiⁿ，gín-á時代mā bat kap大人絞--過，不過絞--ê是兩股--ê，絞三股--ê to̍h無hit ê才調。
 
 過去生活tī庄腳ê作穡人，taⁿ擔ê畚箕、米籮ài pa̍k索á，載貨、pa̍k柴ài用索á liāu，牽牛、駛田腳車、捆豬、拖車…步步lóng tio̍h用索á，索á tī田庄所在是生活必須品。細條索á用雙手撚，a̍h是tiàm腳頭u so to̍h ē-sái--tit，大條索nā無用家私頭á來股，是無可能ê tāi-chì。過去作田人nā有閒工，to̍h三、五個招--leh，互相tàu-saⁿ-kāng，phah幾條á索á khǹg leh thang用。
 

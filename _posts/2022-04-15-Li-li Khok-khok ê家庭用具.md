@@ -87,7 +87,7 @@ Tn̄g-tio̍h過年厝內大piàⁿ掃，厝頂kài chē蜘蛛絲kap ian-thûn（
 
 |**詞**|**解說**|
 |chhun--ê|『剩下的』。|
-|thâi|『殺』，台語人ê thâi，thâi雞／鴨，thâi扁擔／kan-lo̍k，相thâi，giâ刀á創作ê意涵。Nā是講sat，to̍h hām華語ê『殺』kāng意思。|
+|thâi|『殺』，台語人ê thâi，thâi雞／鴨，thâi扁擔／kan-lo̍k，相thâi，giâ刀á創作ê意涵。Nā是講sat，to̍h hām中國話ê『殺』kāng意思。|
 |hô腳|Hô-kha，『符合腳的大小尺寸』。|
 |四角長liau形|Sì-kak tn̂g-liau-hêng，『長方形』。|
 |眠床|Bûn-chhn̂g／Bîn-chhn̂g，安眠an-bîn，眠夢bîn-bāng。|

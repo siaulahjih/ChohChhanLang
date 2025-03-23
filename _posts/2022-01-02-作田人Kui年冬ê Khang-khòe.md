@@ -20,13 +20,13 @@ mermaid: true
 # 1. Kui年冬種作ê穡頭
 > **Kui Nî-tang Chèng-choh ê Sit-thâu**
 
-台灣1年四季如春，1年ē-tàng收成3冬，2冬粟á 1冬雜糧，無hit-lō春耕、夏種、秋收、冬藏ê觀念。
+台灣1年四季如春，1年ē-tàng收成3冬，2冬粟仔1冬雜糧，無hit-lō春耕、夏種、秋收、冬藏ê觀念。
 
-第一期稻作（tiū-chok）tī太陽曆一、二月掖秧á（iā ng-á），三、四月播田（pò͘-chhân），到七月份收成割稻，大約140工，成長期khah慢，收成khah chē，可惜七--月厚風颱做大水，早冬粟boeh豐收to̍h ē phah折，pháiⁿ按算。
+第一期稻作（tiū-chok）tī太陽曆一、二月掖秧仔（iā ng-á），三、四月播田（pò͘-chhân），到七月份收成割稻，大約140工，成長期khah慢，收成khah chē，可惜七--月厚風颱做大水，早冬粟boeh豐收to̍h ē phah折，pháiⁿ按算。
 
-第二期稻作tī太陽曆七月份to̍h ài掖種（iā chéng），因為早冬粟收割了後，隨時tio̍h犁田pháng田，八月初to̍h ài插秧á（chhah ng-á），是作田人siāng無閒ê季節，m̄ chiah有「六月六，頭家lo̍h田phah la̍k-ta̍k」 chit ê俗語。Tī chia，六月六是太陰曆。秧á插好，經過飽kūi、抽穗（thiu sūi）、芒花、入漿、飽穗到鉤頭、熟黃、割稻，大約120工，成長比早冬稻khah快速，mā是因為快速，收成比早冬減真chē，不過chit段期間，無風颱水災來sńg-tn̄g，少bóng少，卻是穩tak-tak在穩--ê。第二冬to̍h是慢冬、望冬、穩冬。
+第二期稻作tī太陽曆七月份to̍h ài掖種（iā chéng），因為早冬粟收割了後，隨時tio̍h犁田pháng田，八月初to̍h ài插秧仔（chhah ng-á），是作田人siāng無閒ê季節，m̄ chiah有「六月六，頭家lo̍h田phah la̍k-ta̍k」 chit ê俗語。Tī chia，六月六是太陰曆。秧仔插好，經過飽kūi、抽穗（thiu sūi）、芒花、入漿、飽穗到鉤頭、熟黃、割稻，大約120工，成長比早冬稻khah快速，mā是因為快速，收成比早冬減真chē，不過chit段期間，無風颱水災來sńg-tn̄g，少bóng少，卻是穩tak-tak在穩--ê。第二冬to̍h是慢冬、望冬、穩冬。
 
-第二期稻作收割tī十一月kha-tau，寒天已經到，田--ni̍h khang-khòe暫時ē-tàng歇喘，俗語講：「入冬，田頭空。」To̍h是講chit段時間，田頭已經khah少穡頭，田頭少穡頭並m̄是田--mi̍h無作物（chok-bu̍t），tī慢冬稻á iáu未割進前，早to̍h tī稻á縫糊番薯藤、tiām番麥á種，a̍h是犁田掖楊麻，mā有thiau-kang放ho͘拋荒hō͘田土（chhân-thô͘）小歇睏。
+第二期稻作收割tī十一月kha-tau，寒天已經到，田--ni̍h khang-khòe暫時ē-tàng歇喘，俗語講：「入冬，田頭空。」To̍h是講chit段時間，田頭已經khah少穡頭，田頭少穡頭並m̄是田--mi̍h無作物（chok-bu̍t），tī慢冬稻仔iáu未割進前，早to̍h tī稻仔縫糊番薯藤、tiām番麥á種，a̍h是犁田掖楊麻，mā有thiau-kang放ho͘拋荒hō͘田土（chhân-thô͘）小歇睏。
 
 Tī chit站khah閒ê làng縫，厝邊隔壁ê cha-bó͘人to̍h ē相招（sio-chio）會齊（hōe-chê），炊碗粿、thoah米篩目（bí-thai-ba̍k）、cheng麻糍慰勞ka-tī 1年ê辛苦，大人無閒e粿漿，gín-á歡喜削碗粿chhiám-á。「立冬，補嘴空（chhùi-khang）。」有--ê thâi鴨公tīm補，無--ê bun米糕kā gín-á補膀胱有力，暗時á khah bē chhōa尿，koh khah sàn赤--ê只好看人食，3頓都jiok bē赴，ná有thang補嘴空？
 

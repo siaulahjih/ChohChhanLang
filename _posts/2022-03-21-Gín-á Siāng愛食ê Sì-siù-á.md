@@ -19,7 +19,7 @@ toc: true
 ## 1-1. 炒米芳、米芳kap Pōng米芳
 > **Chhá Bí-phang, Bí-phang kap Pōng-bí-phang**
 
-古早作田人ê gín-á平常時罕得有sì-siù-á tām-sám，大人to̍h ē kā粟á a̍h是白米tiàm大鼎炒ho͘熟炒hō͘煏--開，體積增加無chē，án-ne叫做炒米芳、炒米á，sám一寡鹽花á to̍h鹹芳á鹹芳，食--起-來tēng-tēng酥酥芳芳，gín-á人iau-sâi「無魚，蝦mā好。」雖bóng tio̍h揀粟殼，mā是食kah歡喜tang-tang。
+古早作田人ê gín-á平常時罕得有sì-siù-á tām-sám，大人to̍h ē kā粟仔a̍h是白米tiàm大鼎炒ho͘熟炒hō͘煏--開，體積增加無chē，án-ne叫做炒米芳、炒米á，sám一寡鹽花á to̍h鹹芳á鹹芳，食--起-來tēng-tēng酥酥芳芳，gín-á人iau-sâi「無魚，蝦mā好。」雖bóng tio̍h揀粟殼，mā是食kah歡喜tang-tang。
 
 生理人kā炒米芳做專業ê生產，chham糖切塊包裝to̍h是商品，叫做「米芳」。
 

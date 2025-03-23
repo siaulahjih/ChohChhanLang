@@ -13,11 +13,11 @@ toc: true
 
 ![](../too5/08/8-5-8-3-3.熨斗.jpg)
 
-已經無leh使用ê古物á：
+已經無leh使用ê古物仔：
 
 時代進步真驚人，祖先傳承phah-m̄-kiàn，一甲子前kap咱bô-tī-tāi，老人真懷念，少年--ê soah gāng-gāng。
 
-少年人，你kám知影chia-ê古物á siáⁿ-mih名？siáⁿ-mih路用？
+少年人，你kám知影chia-ê古物仔siáⁿ-mih名？siáⁿ-mih路用？
 
 # 1. 家私紹介
 > **Ke-si Siāu-kài**

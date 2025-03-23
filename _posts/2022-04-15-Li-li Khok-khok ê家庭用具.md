@@ -22,7 +22,7 @@ toc: true
 
 庄腳人ê木屐khah chē是ka-tī chhò柴ka-tī thâi，二兄真gâu thâi木屐，苦楝á柴、樟á柴是材料，用柴刀chām，chiah koh用刀á修，木屐耳chhōe he害車輪ê樹奶，a̍h是khioh he bē用--得ê皮帶，古早hit-lō ga-là-suh皮帶chiâⁿ好用，鉸2節hô腳用釘á釘好勢，to̍h是1雙「khiáu khiáu khiáu khiáu」ê木屐，人未到聲先到，to̍h是穿木屐趣味，聽tio̍h木屐聲，to̍h知影有人leh來，koh知影是siáⁿ-mih人。
 
-除了合腳形ê皮á耳木屐，mā有hit-lō三耳á木屐，四角長liau形，有3-kâi khang，用棕毛pīⁿ成Y字型ê耳，親像chit-mái ê『夾腳拖』，不過khah少人穿，用腳指頭á giap--leh ē疼bē慣勢，穿--起-來淡薄á sêng日本人。
+除了合腳形ê皮á耳木屐，mā有hit-lō三耳á木屐，四角長liau形，有3-kâi khang，用棕毛pīⁿ成Y字型ê耳，親像chit-mái ê『夾腳拖』，不過khah少人穿，用腳指頭仔giap--leh ē疼bē慣勢，穿--起-來淡薄á sêng日本人。
 ![](../too5/16/16-8-1木屐柴屐.jpg)  
 ![](../too5/16/16-8-2木屐.jpg)
 ![](../too5/16/16-8-2a木屐柴屐.jpg)

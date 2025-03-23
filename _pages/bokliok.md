@@ -28,7 +28,7 @@ layout: post
 ### 〈第2章——作田人Chia̍h-si̍t記事〉
 
 1. [氣力補給站──灶腳](../../chheh/02-01.html)
-2. [灶有Jōa-chē款？](../../chheh/02-02.html)
+2. [灶有Jōa Chē款？](../../chheh/02-02.html)
 3. [Hiâⁿ柴顧火──灶Khang前](../../chheh/02-03.html)
 4. [灶腳用水kap洗Tn̄g](../../chheh/02-04.html)
 5. [處理食物材料ê家私](../../chheh/02-05.html)
@@ -91,7 +91,7 @@ layout: post
 6. [農業時代田庄ê火光](../../chheh/04-06.html)
 7. [眠床kap眠床相關ê用品](../../chheh/04-07.html)
 8. [Phah棉Chioh被](../../chheh/04-08.html)
-9. [桌á kap椅á](../../chheh/04-09.html)
+9. [桌仔kap椅仔](../../chheh/04-09.html)
 10. [各式櫥櫃](../../chheh/04-10.html)
 11. [梳妝打扮](../../chheh/04-11.html)
 12. [時鐘kap錶仔](../../chheh/04-12.html)
@@ -113,12 +113,12 @@ layout: post
 10. [娶新娘](../../chheh/05-10.html)  
 11. [扛嫁妝ê家私——Siāⁿ](../../chheh/05-11.html)  
 12. [食喜酒kap食茶](../../chheh/05-12.html)  
-13. [Chhōa路雞á](../../chheh/05-13.html)  
+13. [Chhōa路雞仔](../../chheh/05-13.html)  
 14. [穿插kap針指類ê嫁妝](../../chheh/05-14.html)  
 15. [灶脚和洗tn̄g用ê嫁妝](../../chheh/05-15.html)  
 16. [Kap梳妝打扮有關係ê嫁妝](../../chheh/05-16.html)  
-17. [薰焙á kap Pok薰文化](../../chheh/05-17.html)  
-18. [龍眼焙á](../../chheh/05-18.html)  
+17. [薰焙仔kap Pok薰文化](../../chheh/05-17.html)  
+18. [龍眼焙仔](../../chheh/05-18.html)  
 
 ### 〈第6章——作田人在地記事目錄〉
 

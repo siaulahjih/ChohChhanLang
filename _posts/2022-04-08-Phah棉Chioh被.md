@@ -69,12 +69,12 @@ Ngiáu紗á線ê細支竹篙á，用--起-來ài ē合手。
 ![](../too5/17/17-27-5拍棉被.jpg)
 ![](../too5/17/17-27-6拍棉被.jpg)
 
-## 1-7. 纏梭á組
+## 1-7. 纏梭仔組
 > **Tîⁿ-so-á-cho͘**
 
-買--來ê紗á是像麵線1-ut 1-ut，需要用纏梭á組kā i纏tiàm 1 kâi尖尾梭ê柴kho͘頂，方便牽紗，纏紗需要技術chiah bē liù紗。
+買--來ê紗á是像麵線1-ut 1-ut，需要用纏梭仔組kā i纏tiàm 1 kâi尖尾梭ê柴kho͘頂，方便牽紗，纏紗需要技術chiah bē liù紗。
 
-牽紗需要一對手，1 ê liû紗，1 ê牽紗，liû紗chit pêng，tò手用大pû-ong、kí-cháiⁿ輕輕kā紗線tēⁿ tī手心，正手用大pû-ong、kí-cháiⁿ tioh紗á hō͘對方ngiáu；牽紗--ê chit pêng giâ一支細支竹篙á，伸手kā對方ê紗á ngiáu倚來正手虎口，sòa--落tò手指頭á kā紗線tēⁿ-ân，正手順手勢boeh koh kā竹篙á伸出時，sìm--一-下to̍h ē-sái-tit kā紗線掣斷順sòa chhi̍h tiàm棉chioh面頂，同時對方mā kā紗線chhi̍h tiàm棉chioh面頂，án-ne ngiáu一下ē-tàng牽2條紗。這ê動作一直重複到完成，chiah koh péng pêng繼續完成另外hit面。
+牽紗需要一對手，1 ê liû紗，1 ê牽紗，liû紗chit pêng，tò手用大pû-ong、kí-cháiⁿ輕輕kā紗線tēⁿ tī手心，正手用大pû-ong、kí-cháiⁿ tioh紗á hō͘對方ngiáu；牽紗--ê chit pêng giâ一支細支竹篙á，伸手kā對方ê紗á ngiáu倚來正手虎口，sòa--落tò手指頭仔kā紗線tēⁿ-ân，正手順手勢boeh koh kā竹篙á伸出時，sìm--一-下to̍h ē-sái-tit kā紗線掣斷順sòa chhi̍h tiàm棉chioh面頂，同時對方mā kā紗線chhi̍h tiàm棉chioh面頂，án-ne ngiáu一下ē-tàng牽2條紗。這ê動作一直重複到完成，chiah koh péng pêng繼續完成另外hit面。
 ![](../too5/17/17-27-7拍棉被.jpg)
 ![](../too5/17/17-27-8拍棉被.jpg)
 （感謝林老師 May Lin ê經驗分享）
